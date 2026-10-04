@@ -1,0 +1,7 @@
+# C/C++ build files
+*.exe
+*.obj
+*.o
+
+# VS Code settings
+.vscode/
