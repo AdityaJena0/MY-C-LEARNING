@@ -5,8 +5,9 @@ My daily journey of learning C programming.
 ## Programs
 
 <!-- PROGRAMS:START -->
-1. Hello World
-2. Addition of Two Numbers
+1. Addition
+2. Hello
+3. Positivenumber
 <!-- PROGRAMS:END -->
 
 More programs will be added automatically as I learn.
