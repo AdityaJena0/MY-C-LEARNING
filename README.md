@@ -1,6 +1,6 @@
 # MY-C-LEARNING
 
-My daily journey of learning C programming.
+My daily journey of learning C programming from the basics.
 
 ## Programs
 
@@ -10,12 +10,8 @@ My daily journey of learning C programming.
 3. Positivenumber
 <!-- PROGRAMS:END -->
 
-More programs will be added automatically as I learn.
+> New C programs are added automatically to this list as I continue learning.
 
-## Learning Approach
+## Goal
 
-- Learn the concept
-- Write the program myself
-- Compile and run it
-- Save each program in this repository
-- Commit and push my progress to GitHub
+Build a strong foundation in C programming by learning concepts, writing programs, compiling them, and tracking my progress on GitHub.
