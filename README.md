@@ -4,10 +4,12 @@ My daily journey of learning C programming.
 
 ## Programs
 
+<!-- PROGRAMS:START -->
 1. Hello World
 2. Addition of Two Numbers
+<!-- PROGRAMS:END -->
 
-More programs will be added as I learn.
+More programs will be added automatically as I learn.
 
 ## Learning Approach
 
