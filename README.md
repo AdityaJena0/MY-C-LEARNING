@@ -5,8 +5,8 @@ My daily journey of learning C programming from the basics.
 ## Programs
 
 <!-- PROGRAMS:START -->
-1. Addition
-2. Hello
+1. Hello
+2. Addition
 3. Positivenumber
 <!-- PROGRAMS:END -->
 
