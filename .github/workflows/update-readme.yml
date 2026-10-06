@@ -23,10 +23,19 @@ jobs:
           python - <<'PY'
           from pathlib import Path
 
-          programs = sorted(
+          programs = [
+              "hello.c",
+              "addition.c",
+              "positivenumber.c",
+          ]
+
+          existing = {
               p.name for p in Path(".").rglob("*.c")
               if ".git" not in p.parts
-          )
+          }
+
+          programs = [p for p in programs if p in existing]
+          programs += sorted(existing - set(programs))
 
           start = "<!-- PROGRAMS:START -->"
           end = "<!-- PROGRAMS:END -->"
