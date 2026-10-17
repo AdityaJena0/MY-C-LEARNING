@@ -7,10 +7,10 @@ My daily journey of learning C programming from the basics.
 <!-- PROGRAMS:START -->
 1. Hello
 2. Addition
-3. Positivenumber
-4. Arithmeticoperation
-5. Radiusofacircle
-6. Simpleinterest
+3. Positive Number
+4. Arithmetic Operation
+5. Radius of a Circle
+6. Simple Interest
 <!-- PROGRAMS:END -->
 
 > New C programs are added automatically to this list as I continue learning.
