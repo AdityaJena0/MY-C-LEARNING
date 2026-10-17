@@ -2,18 +2,23 @@
 
 My daily journey of learning C programming from the basics.
 
-## Programs
+## Structured Learning
 
 <!-- PROGRAMS:START -->
 1. Hello
 2. Addition
 3. Positive Number
-4. Arithmetic Operation
-5. Radius of a Circle
-6. Simple Interest
 <!-- PROGRAMS:END -->
 
-> New C programs are added automatically to this list as I continue learning.
+> These programs follow my planned C learning progression.
+
+## College Observation Programs
+
+- Arithmetic Operation
+- Radius of a Circle
+- Simple Interest
+
+> These programs are from my college observation book and are kept separately from my structured learning progression.
 
 ## Goal
 
