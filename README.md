@@ -8,6 +8,9 @@ My daily journey of learning C programming from the basics.
 1. Hello
 2. Addition
 3. Positivenumber
+4. Arithmeticoperation
+5. Radiusofacircle
+6. Simpleinterest
 <!-- PROGRAMS:END -->
 
 > New C programs are added automatically to this list as I continue learning.
