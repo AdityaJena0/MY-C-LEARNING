@@ -7,7 +7,11 @@ My daily journey of learning C programming from the basics.
 <!-- PROGRAMS:START -->
 1. Hello
 2. Addition
-3. Positive Number
+3. Positivenumber
+4. Muktiplicationtable
+5. Arithmeticoperation
+6. Radiusofacircle
+7. Simpleinterest
 <!-- PROGRAMS:END -->
 
 > These programs follow my planned C learning progression.
